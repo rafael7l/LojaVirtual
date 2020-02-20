@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/rafael/AndroidStudioProjects/loja_virtual/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/rafael/.gradle/caches/transforms-2/files-2.1/d5d99ad3e1f77eee335b65730b43d576/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/rafael/AndroidStudioProjects/loja_virtual/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/rafael/.gradle/caches/transforms-2/files-2.1/d5d99ad3e1f77eee335b65730b43d576/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/rafael/AndroidStudioProjects/loja_virtual/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/rafael/.gradle/caches/transforms-2/files-2.1/d5d99ad3e1f77eee335b65730b43d576/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rafael/AndroidStudioProjects/loja_virtual/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/rafael/.gradle/caches/transforms-2/files-2.1/d5d99ad3e1f77eee335b65730b43d576/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rafael/AndroidStudioProjects/loja_virtual/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/rafael/.gradle/caches/transforms-2/files-2.1/d5d99ad3e1f77eee335b65730b43d576/core-1.0.0/res/layout/notification_action.xml"
+    }
+]

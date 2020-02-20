@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">604606995372-0p61ltqhjdn7n06as7sqvrkspr7juun1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://lojaflutter-b8b6e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">604606995372</string>
+    <string name="google_api_key" translatable="false">AIzaSyCDw5KtrXfH_m8z29mUP7AWIa4G3O1vTEg</string>
+    <string name="google_app_id" translatable="false">1:604606995372:android:e393678473a653b766f809</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCDw5KtrXfH_m8z29mUP7AWIa4G3O1vTEg</string>
+    <string name="google_storage_bucket" translatable="false">lojaflutter-b8b6e.appspot.com</string>
+    <string name="project_id" translatable="false">lojaflutter-b8b6e</string>
+</resources>
